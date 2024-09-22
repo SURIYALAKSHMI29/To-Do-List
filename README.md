@@ -1,3 +1,4 @@
+
 # To-Do List Application
 
 ## Overview
@@ -27,37 +28,39 @@ This To-Do List application allows users to add, delete, and manage tasks effici
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/SURIYALAKSHMI29/To-Do-List.git
    cd To-Do-List
+   ```
 
-   Install dependencies:
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
 
-bash
-Copy code
-npm install
-Run the application:
+3. **Run the application**:
+   ```bash
+   npm run dev
+   ```
 
-bash
-Copy code
-npm run dev
-Open your browser and go to http://localhost:3000 to see the application in action.
+4. **Open your browser** and go to `http://localhost:3000` to see the application in action.
 
-Usage
-To add a task, enter the task name in the input field and click "Add Task."
-To delete a task, click the "Delete" button next to the task.
-Completed tasks will be moved to a "Recently Done" section.
-Use the up and down arrows to adjust the priority of your tasks.
-Contributing
+## Usage
+
+- To add a task, enter the task name in the input field and click "Add Task."
+- To delete a task, click the "Delete" button next to the task.
+- Completed tasks will be moved to a "Recently Done" section.
+- Use the up and down arrows to adjust the priority of your tasks.
+
+## Contributing
+
 Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
 
-Acknowledgements
-Inspired by various task management applications.
-css
-Copy code
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to customize any section as needed!
+## Acknowledgements
+
+- Inspired by various task management applications.
