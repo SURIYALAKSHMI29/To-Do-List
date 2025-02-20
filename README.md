@@ -16,7 +16,7 @@ This To-Do List application allows users to add, delete, and manage tasks effici
 
 - **Frontend**: React
 - **State Management**: Context API or Redux
-- **Styling**: CSS or a CSS framework (e.g., Bootstrap, Tailwind)
+- **Styling**: CSS 
 - **Build Tool**: Vite
 
 ## Getting Started
